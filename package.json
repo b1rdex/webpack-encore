@@ -63,7 +63,7 @@
     "autoprefixer": "^8.5.0",
     "babel-eslint": "^10.0.1",
     "chai": "^3.5.0",
-    "chai-fs": "^1.0.0",
+    "chai-fs": "^2.0.0",
     "core-js": "^3.0.0",
     "eslint": "^5.15.2",
     "eslint-loader": "^2.1.2",
